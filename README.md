@@ -18,3 +18,4 @@ scanner.close();
 
 # Credits:
 [android-dawg](https://github.com/icantrap/android-dawg)
+Georgian word list © Nikoloz Barbaqadze
